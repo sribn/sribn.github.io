@@ -100,5 +100,5 @@ This is a capstone project of my team for Bangkit Academy 2022 led by Google, To
 ---
 ### Contact Me
 
-[<img align="left" src='https://www.svgrepo.com/show/303108/google-icon-logo.svg' alt='gmail' height='40'>](mailto:sribn.wo@gmail.com) 
+[<img align="left" src='https://www.svgrepo.com/show/303108/google-icon-logo.svg' alt='gmail' height='40'>](mailto:sribn.wo@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" src='https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sribn/)
