@@ -22,17 +22,20 @@
 ---
 
 ### Work Experience
-**Machine Learning Mentor @ Indonesia AI (Feb 2022 - Aug 2022)**
+**Machine Learning Mentor (Feb 2022 - Aug 2022)**
+<br/> *Indonesia AI*
 - Mentored 3 batches of Machine Learning classes.
 - Covered topics: data loading and visualization, data preprocessing, and basic machine learning algorithms.
 - Reported mentees’ progress to stakeholders.
 
-**Student Intern @ NewQuest Geotechnology (Feb 2022 - Mar 2022)**
+**Student Intern (Feb 2022 - Mar 2022)**
+<br/> *NewQuest Geotechnology*
 - Analyzed noises in time series, spectra density, coherence, and resistivity/phase curve.
 - Enhanced magnetotelluric data quality through time series and cross power selection.
 - Achieved very good and good quality magnetotelluric data through noise analysis and cross power selection.
 
-**Computational Geophysics Labworks Assistant @ Brawijaya University (Oct 2021 - Dec 2021)**
+**Computational Geophysics Labworks Assistant (Oct 2021 - Dec 2021)**
+<br/> *Brawijaya University*
 - Assisted basic concept of function topic and coding with MATLAB.
 - Implemented collective student reporting and scoring with Google Sheets pivoting.
 - Analyzed student performance for course evaluation.
@@ -111,5 +114,5 @@ This is a capstone project of my team for Bangkit Academy 2022 led by Google, To
 ---
 ### Contact Me
 
-[<img align="left" src='https://www.svgrepo.com/show/303108/google-icon-logo.svg' alt='gmail' height='40'>](mailto:sribn.wo@gmail.com)
+[<img align="left" src='https://www.svgrepo.com/show/303108/google-icon-logo.svg' alt='gmail' height='40'>](mailto:sribn.wo@gmail.com) &emsp;
 [<img align="left" src='https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sribn/)
