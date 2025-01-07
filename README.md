@@ -1,5 +1,14 @@
 # Data, Energy, Sustainability
 
+### Tools
+<img align="left" alt="Google Docs" width="30px" style="padding-right:40px;" src="https://roiamplified.com/wp-content/uploads/2018/09/gsuite-logo.png"/>
+<img align="left" alt="Excel" width="30px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"/>
+<img align="left" alt="BigQuery" width="30px" style="padding-right:40px;" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Tableau" width="30px" style="padding-right:40px;" src="https://www.svgrepo.com/show/354428/tableau-icon.svg"/>
+<img align="left" alt="Looker" width="30px" style="padding-right:40px;" src="https://www.svgrepo.com/show/354012/looker-icon.svg"/> 
+<br/>
 
 ### Education
 - **Machine Learning (2022)**
