@@ -10,6 +10,8 @@
 <img align="left" alt="Looker" width="30px" style="padding-right:40px;" src="https://www.svgrepo.com/show/354012/looker-icon.svg"/> 
 <br/>
 
+---
+
 ### Education
 - **Machine Learning (2022)**
 <br/> *Bangkit Academy by Google, GoTo, & Traveloka*
