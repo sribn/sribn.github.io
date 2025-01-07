@@ -2,10 +2,10 @@
 
 
 ### Education
-**Machine Learning (2022)**
+- **Machine Learning (2022)**
 <br/> *Bangkit Academy by Google, GoTo, & Traveloka*
 
-**B.Eng., Geophysical Engineering (2018 - 2022)**
+- **B.Eng., Geophysical Engineering (2018 - 2022)**
 <br/> *Brawijaya University*
 
 ---
@@ -44,7 +44,7 @@
 - Designed a dashboard to monitor sales performance with Looker Studio.
 
 **Quantium Trial Store Analytics (Python)** <br/>
-[Notebook1](https://github.com/sribn/quantium-virutal-internship/blob/main/Quantium%20Data%20Analytics%20-%20Task%201.ipynb), [2](https://github.com/sribn/quantium-virutal-internship/blob/main/Quantium%20Data%20Analytics%20-%20Task%202.ipynb) | [Slide1](https://drive.google.com/file/d/1QEczjWXzLAwcMt2u3UZYB2V9J_Z_6RhS/view?usp=sharing), [2](https://drive.google.com/file/d/1VwtSHtjCHA6VGDSL6dI10cA4wzB9suIT/view?usp=sharing), [3](https://drive.google.com/file/d/1IchsL5_L7Uml8OUj-RxaMaMAcRLbKo8a/view?usp=sharing)
+[Notebook 1](https://github.com/sribn/quantium-virutal-internship/blob/main/Quantium%20Data%20Analytics%20-%20Task%201.ipynb), [2](https://github.com/sribn/quantium-virutal-internship/blob/main/Quantium%20Data%20Analytics%20-%20Task%202.ipynb) | [Slide 1](https://drive.google.com/file/d/1QEczjWXzLAwcMt2u3UZYB2V9J_Z_6RhS/view?usp=sharing), [2](https://drive.google.com/file/d/1VwtSHtjCHA6VGDSL6dI10cA4wzB9suIT/view?usp=sharing), [3](https://drive.google.com/file/d/1IchsL5_L7Uml8OUj-RxaMaMAcRLbKo8a/view?usp=sharing)
 - Handled inconsistent data by data slicing and filtering.
 - Transformed and visualized data for high-level analysis.
 - Assessed A/B testing by selecting control variables by similarity metrics and hypothesis testing with p-value for change significance control.
